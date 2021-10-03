@@ -1,0 +1,24 @@
+h1
+{
+    color:cornsilk;
+}
+
+body
+{
+    background-color: coral;
+}
+
+#carte
+{
+ 
+    width: 800px;
+    margin:0 auto;
+    background-color:burlywood; 
+    text-align: center;
+    align-content: center;
+   }
+
+ul li
+{
+    list-style-type: none;
+}
