@@ -1,0 +1,27 @@
+h1
+{
+    color:#000;
+    font-size: 40px;
+    padding-right: 200px;
+}
+
+h2
+{
+    color:#45402E;
+    font-size: 25px;
+
+}
+
+#carte
+{
+    width: 700px;
+    margin:2;
+    background-color:darkgray; 
+    text-align:left;
+}
+body
+{
+    background-color:#fff;
+}
+
+
